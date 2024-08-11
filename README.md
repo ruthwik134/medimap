@@ -1,12 +1,11 @@
 
-# 🏥 Healthcare Center Locating Application
+# 🏥 Healthcare Center Locating Application(Medi-Map)
 
 This project was developed as part of a hackathon to create a user-friendly healthcare center locating application. The application provides information about nearby hospitals and PSUs (Public Sector Undertakings) on a map based on identified signs/symptoms of patients. It assists in patient referral, triage, and insurance services, helping users find the most suitable healthcare facilities near them.
 
 ## ✨ Features
 
 - **🔍 Symptom-Based Search**: Locate healthcare centers based on given or identified symptoms.
-- **🚑 Referral & Triage Support**: Provides referral information and triage options.
 - **💳 Insurance Services**: Displays a list of hospitals that accept specific insurance plans.
 - **🗺️ Interactive Map**: Shows nearby hospitals and healthcare facilities on a map.
 
