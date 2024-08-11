@@ -67,6 +67,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 - Sai Ruthwik Maheshwaram
 - Abhiram Chikatla
 
-## 📜 License
 
-This project is licensed under the MIT License.
